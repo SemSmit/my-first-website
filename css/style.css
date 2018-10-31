@@ -27,8 +27,8 @@ nav a {
 }
 
 nav a:hover {
-    background-color: red;
-    color: green;
+    background-color: #ffffff;
+    color: #4a4a4f;
 }
 
 .card {
